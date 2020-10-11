@@ -1,17 +1,3 @@
-# GPattern
+Solve this: https://www.geeksforgeeks.org/program-print-pattern-g/
 
-#Given a number n, write a program to print the pattern G over n lines or rows.
-
-"
-Input : 9
-Output :
-  *****  
- *       
- *       
- *       
- *   *** 
- *     * 
- *     * 
- *     * 
-  *****  
-  "
+Please write your own logic
